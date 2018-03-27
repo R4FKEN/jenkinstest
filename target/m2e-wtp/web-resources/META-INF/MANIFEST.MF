@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Goede doel
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: zi08
+Implementation-Vendor-Id: be.vdab
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/GoedeDoel/
+Created-By: Maven Integration for Eclipse
+
